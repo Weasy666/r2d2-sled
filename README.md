@@ -4,7 +4,7 @@
 [![Documentation](https://docs.rs/r2d2_sled/badge.svg)](https://docs.rs/r2d2_sled)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
-[r2d2] connection pool for [sled] based on Jovansonlee Cesar's [r2d2-sqlite]. The primery use case is to
+[r2d2] connection pool for [sled] based on Jovansonlee Cesar's [r2d2-sqlite]. The primary use-case is to
 enable a simple and smooth integration with the wider [r2d2] ecosystem, like [rocket_contrib]'s [databases]
 feature.
 
